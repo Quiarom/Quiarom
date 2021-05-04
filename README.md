@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **danielandresquiaropinto@gmail.com**
 
-- ⚡ Fun fact **I think develop web games**
+- ⚡ Fun fact **I think on developing web games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
