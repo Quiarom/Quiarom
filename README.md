@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://dev.to/quiarom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="quiarom" height="30" width="40" /></a>
 <a href="https://twitter.com/quiaromdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="quiaromdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/quiarom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="quiarom" height="30" width="40" /></a>
 <a href="https://dribbble.com/quiarom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/dribbble.svg" alt="quiarom" height="30" width="40" /></a>
 <a href="https://discord.gg/#3290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="#3290" height="30" width="40" /></a>
 </p>
