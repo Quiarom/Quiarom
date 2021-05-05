@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Quiaro</h1>
 <h3 align="center">A curious, passionate and happy Frontend Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/quiaromdev" target="blank"><img src="https://img.shields.io/twitter/follow/quiaromdev?logo=twitter&style=for-the-badge" alt="quiaromdev" /></a> </p>
+<p align="center"> <a href="https://twitter.com/quiaromdev" target="blank"><img src="https://img.shields.io/twitter/follow/quiaromdev?logo=twitter&style=for-the-badge" alt="quiaromdev" /></a> </p>
 
 - 🔭 I’m currently working on [Improve in Javascript](https://eloquentjavascript.net/)
 
