@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on [Improve in Javascript](https://eloquentjavascript.net/)
 
-- 🌱 I’m currently learning **Vainilla Javascript**
-
-- 👯 I’m looking to collaborate on [YositecreoVenezuela](https://github.com/YoSiTeCreoVenezuela)
+- 🌱 I’m currently learning **Rust**
 
 - 🤝 I looking for helping with [Raydesite](https://github.com/Raydesite)
 
-- 💬 Ask me about **CSS, React and TailwindCSS**
+- 💬 Ask me about **HTML, CSS, Javascript and Rust**
 
 - 📫 How to reach me **danielandresquiaropinto@gmail.com**
 
