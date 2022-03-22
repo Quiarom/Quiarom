@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://dev.to/quiarom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="quiarom" height="30" width="40" /></a>
 <a href="https://twitter.com/quiaromdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter Account" height="30" width="40"</a>
-<a href="https://dribbble.com/quiarom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="Dribble Account" height="30" width="40" /></a>
 <a href="https://discord.gg/3AkwMJJgpb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#3290" height="30" width="40" /></a>
 </p>
 
