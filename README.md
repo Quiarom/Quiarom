@@ -3,13 +3,13 @@
 
 <p align="center"> <a href="https://twitter.com/quiaromdev" target="blank"><img src="https://img.shields.io/twitter/follow/quiaromdev?logo=twitter&style=for-the-badge" alt="quiaromdev" /></a> </p>
 
-- 🔭 I’m currently working on [Improve in Javascript](https://eloquentjavascript.net/)
+- 🔭 I’m currently working on [Asilo Digital](https://www.asilodigital.com/)
 
 - 🌱 I’m currently learning **Rust**
 
-- 🤝 I looking for helping with [Raydesite](https://github.com/Raydesite)
+- 🤝 I looking for helping with [Asilo Digital](https://www.asilodigital.com/)
 
-- 💬 Ask me about **HTML, CSS, Javascript and Rust**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React and Rust**
 
 - 📫 How to reach me **userquiarom@gmail.com**
 
