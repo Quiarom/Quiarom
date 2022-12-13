@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React and Rust**
 
-- 📫 How to reach me **userquiarom@gmail.com**
+- 📫 How to reach me **quiaro.dev@gmail.com**
 
-- ⚡ Fun fact **I think about developing web games**
+- ⚡ Fun fact **I think about developing web games and Web3 projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
