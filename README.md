@@ -1,4 +1,4 @@
-<h1><i>FullStack Developer</i></h1>
+<h1><i>FullStack Developer - Building the Future of the Web</i></h1>
 <h3>A curious, passionate and happy Daniel Quiaro.</h3>
 
 - 🔭 I’m currently working on [Asilo Digital](https://www.asilodigital.com/)
