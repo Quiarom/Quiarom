@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Asilo Digital](https://www.asilodigital.com/)
 
-- 🌱 I’m currently learning **Rust**.
+- 🌱 I’m currently learning **Django**.
 
 - 🤝 I looking for helping with [Asilo Digital](https://www.asilodigital.com/)
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React and Rust**.
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React, Next.js, Astro, NodeJS, ExpressJS, DenoJS and Rust**.
 
 - 📫 How to reach me **quiaro.dev@gmail.com**.
 
