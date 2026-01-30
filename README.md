@@ -1,17 +1,17 @@
-<h1><i>FullStack Developer - Building the Future of the Web</i></h1>
+<h1><i>IA FullStack Developer - Building the Future of the Web</i></h1>
 <h3>A curious, passionate and happy Daniel Quiaro.</h3>
 
 - 🔭 I’m currently working on [Asilo Digital](https://www.asilodigital.com/)
 
-- 🌱 I’m currently learning **Django**.
+- 🌱 I’m currently learning **AI Agents**.
 
 - 🤝 I looking for helping with [Asilo Digital](https://www.asilodigital.com/)
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React, Next.js, Astro, NodeJS, ExpressJS, DenoJS and Rust**.
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React, Next.js, Astro, NodeJS, ExpressJS, DenoJS, Prisma and Rust**.
 
 - 📫 How to reach me **quiaro.dev@gmail.com**.
 
-- ⚡ Fun fact **I think about developing web games and Web3 projects**.
+- ⚡ Fun fact **I think about developing GSAP animations and Web3 projects**.
 
 <h2>Some Tools I Use.</h3>
 <div>
