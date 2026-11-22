@@ -1,35 +1,34 @@
-<h1><i>IA FullStack Developer - Building the Future of the Web</i></h1>
-<h3>A curious, passionate and happy Daniel Quiaro.</h3>
+### Daniel Quiaro
 
-- 🔭 I’m currently working on [Asilo Digital](https://www.asilodigital.com/)
+Construyo productos completos, solo: del modelo de datos a la interfaz y al despliegue. Vivo en Caracas y trabajo con [Asilo Digital](https://www.asilodigital.com/).
 
-- 🌱 I’m currently learning **AI Agents**.
+Me interesa un problema concreto: **cómo los negocios aparecen —o desaparecen— dentro de los asistentes de IA**, y qué hace falta para que un agente pueda operar sobre ellos sin inventar ni cobrar de más.
 
-- 🤝 I looking for helping with [Asilo Digital](https://www.asilodigital.com/)
+#### Lo que estoy construyendo
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React, Next.js, Astro, NodeJS, ExpressJS, DenoJS, Prisma and Rust**.
+**[Sello](https://selloprotocol.dev)** · visibilidad en IA y comercio agéntico
+Un expediente que mide cómo ChatGPT, Gemini y Claude representan a un negocio, un workspace para corregirlo y un catálogo que un agente puede comprar con límites verificables. Pagos apagados a propósito hasta que la liquidación sea auditable.
+`Next.js` · `TypeScript` · `Appwrite` · `Clerk` · `Solana devnet`
 
-- 📫 How to reach me **quiaro.dev@gmail.com**.
+**[Bullao](https://github.com/Quiarom/Bullao)** · cuentas por pagar con evidencia
+Revisa facturas que llegan por correo, PDF o WhatsApp, las compara con lo acordado y deja listo solo lo que cumple. La IA lee, el código decide: cada dato necesita su cita exacta en el documento. Se conecta a Claude o ChatGPT por MCP.
+`TypeScript` · `TanStack Start` · `Supabase` · `MCP`
 
-- ⚡ Fun fact **I think about developing GSAP animations and Web3 projects**.
+**[Intrahilo](https://github.com/Quiarom/intrahilo)** · radar de contenido
+Encuentra temas que están despegando y arma oportunidades editoriales con evidencia navegable en vez de opiniones.
+`Node` · `SQLite` · `React`
 
-<h2>Some Tools I Use.</h3>
-<div>
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg"></img>
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"></img>
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"></img>
-<br/>
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg"></img>
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust3.svg"></img>
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg"></img>
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest1.svg"></img>
-<br/>
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg"></img>
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg"></img>
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg"></img>
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg"></img>
-</div>
+#### Cómo trabajo
 
-<h2 align="left">Connect with me.</h2>
-<a href="https://www.linkedin.com/in/quiarom/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg"></img></a>
-<a href="https://www.x.com/quiaromdev"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg"></img></a>
+- Primero el problema y los límites; el código después.
+- Nada se declara terminado sin una prueba que lo demuestre.
+- Si una integración no se ejecutó, no se anuncia.
+- Prefiero borrar código que agregar abstracciones que nadie pidió.
+
+#### Stack
+
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Astro` · `Node` · `Rust` · `Solana/Anchor` · `PostgreSQL` · `Supabase` · `Docker` · `Playwright` · `Linux`
+
+#### Contacto
+
+[quiaro.dev@gmail.com](mailto:quiaro.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/quiarom/) · [X](https://www.x.com/quiaromdev)
