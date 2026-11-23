@@ -1,34 +1,49 @@
-### Daniel Quiaro
+<h1><i>IA FullStack Developer - Building the Future of the Web</i></h1>
+<h3>A curious, passionate and happy Daniel Quiaro.</h3>
 
-Construyo productos completos, solo: del modelo de datos a la interfaz y al despliegue. Vivo en Caracas y trabajo con [Asilo Digital](https://www.asilodigital.com/).
+- 🔭 I’m currently working on [Asilo Digital](https://www.asilodigital.com/), building complete products solo: from the data model to the interface and the deploy.
 
-Me interesa un problema concreto: **cómo los negocios aparecen —o desaparecen— dentro de los asistentes de IA**, y qué hace falta para que un agente pueda operar sobre ellos sin inventar ni cobrar de más.
+- 🌱 I’m currently learning **AI Agents**, and how businesses show up (or disappear) inside AI assistants.
 
-#### Lo que estoy construyendo
+- 🤝 I looking for helping with [Asilo Digital](https://www.asilodigital.com/)
 
-**[Sello](https://selloprotocol.dev)** · visibilidad en IA y comercio agéntico
-Un expediente que mide cómo ChatGPT, Gemini y Claude representan a un negocio, un workspace para corregirlo y un catálogo que un agente puede comprar con límites verificables. Pagos apagados a propósito hasta que la liquidación sea auditable.
-`Next.js` · `TypeScript` · `Appwrite` · `Clerk` · `Solana devnet`
+- 💬 Ask me about **HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Astro, NodeJS, ExpressJS, DenoJS, Prisma, Supabase, PostgreSQL, Rust and Solana/Anchor**.
 
-**[Bullao](https://github.com/Quiarom/Bullao)** · cuentas por pagar con evidencia
-Revisa facturas que llegan por correo, PDF o WhatsApp, las compara con lo acordado y deja listo solo lo que cumple. La IA lee, el código decide: cada dato necesita su cita exacta en el documento. Se conecta a Claude o ChatGPT por MCP.
-`TypeScript` · `TanStack Start` · `Supabase` · `MCP`
+- 📫 How to reach me **quiaro.dev@gmail.com**.
 
-**[Intrahilo](https://github.com/Quiarom/intrahilo)** · radar de contenido
-Encuentra temas que están despegando y arma oportunidades editoriales con evidencia navegable en vez de opiniones.
-`Node` · `SQLite` · `React`
+- ⚡ Fun fact **I think about developing GSAP animations and Web3 projects**.
 
-#### Cómo trabajo
+<h2>What I'm Building.</h2>
 
-- Primero el problema y los límites; el código después.
-- Nada se declara terminado sin una prueba que lo demuestre.
-- Si una integración no se ejecutó, no se anuncia.
-- Prefiero borrar código que agregar abstracciones que nadie pidió.
+- 🛡️ **[Sello](https://selloprotocol.dev)** · AI visibility and agentic commerce: measures how ChatGPT, Gemini and Claude represent a business, and gives agents a catalog they can buy from with verifiable limits.
 
-#### Stack
+- 🧾 **[Bullao](https://github.com/Quiarom/Bullao)** · Accounts payable with evidence: checks invoices from email, PDF or WhatsApp against what was agreed. The AI reads, the code decides. Connects to Claude or ChatGPT over MCP.
 
-`TypeScript` · `JavaScript` · `React` · `Next.js` · `Astro` · `Node` · `Rust` · `Solana/Anchor` · `PostgreSQL` · `Supabase` · `Docker` · `Playwright` · `Linux`
+- 📡 **[Intrahilo](https://github.com/Quiarom/intrahilo)** · Content radar: finds topics that are taking off and turns them into editorial opportunities backed by evidence.
 
-#### Contacto
+<h2>Some Tools I Use.</h3>
+<div>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" alt="HTML"></img>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="CSS"></img>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript"></img>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" alt="TypeScript"></img>
+<br/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React"></img>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg" alt="Next.js"></img>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro1.svg" alt="Astro"></img>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg" alt="Node.js"></img>
+<br/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust3.svg" alt="Rust"></img>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg" alt="PostgreSQL"></img>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase1.svg" alt="Supabase"></img>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" alt="Docker"></img>
+<br/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg" alt="Linux"></img>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="Git"></img>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest1.svg" alt="Jest"></img>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg" alt="Figma"></img>
+</div>
 
-[quiaro.dev@gmail.com](mailto:quiaro.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/quiarom/) · [X](https://www.x.com/quiaromdev)
+<h2 align="left">Connect with me.</h2>
+<a href="https://www.linkedin.com/in/quiarom/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" alt="LinkedIn"></img></a>
+<a href="https://www.x.com/quiaromdev"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="X (Twitter)"></img></a>
